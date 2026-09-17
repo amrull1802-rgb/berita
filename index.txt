@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Lihat Produk di Shopee</title>
+
+    <meta property="og:type" content="website">
+
+    <meta property="og:title"
+          content="Lihat Produk di Shopee">
+
+    <meta property="og:description"
+          content="Lihat produk selengkapnya di Shopee.">
+
+    <meta property="og:image"
+          content="https://raw.githubusercontent.com/amrull1802-rgb/berita/main/gambar.jpg">
+
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image/jpeg">
+
+    <meta property="og:url"
+          content="https://amrull1802-rgb.github.io/berita/">
+
+    <script>
+        setTimeout(function () {
+            window.location.href =
+            "https://s.shopee.co.id/9Ki6vWXkzt";
+        }, 1000);
+    </script>
+</head>
+
+<body>
+    <p>Mengalihkan ke Shopee...</p>
+</body>
+</html>
